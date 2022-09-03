@@ -12,13 +12,13 @@
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">100</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">200</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
@@ -27,13 +27,13 @@
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">100</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">200</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
@@ -42,28 +42,28 @@
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">180</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
             <iso value="400">
                 <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1.5</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">170</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
@@ -72,13 +72,13 @@
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">170</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
@@ -87,50 +87,65 @@
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">170</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
             <iso value="1200">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0</y_nr_level>
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.9</y_nr_level>
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">320</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
             <iso value="1500">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0</y_nr_level>
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">1.8</y_nr_level>
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
-                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">150</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">320</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
             <iso value="2300">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0</y_nr_level>
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">3</y_nr_level>
                 <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">2</c_nr_times>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
+                <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
+                <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
+                <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
+                <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">250</sharpness>
+                <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
+                <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
+            </iso>
+            <iso value="3200">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">5</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">2</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
@@ -142,9 +157,39 @@
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-            <iso value="3200">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
+            <iso value="4500">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">8</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">2</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
+                <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
+                <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
+                <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
+                <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">100</sharpness>
+                <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
+                <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
+            </iso>
+            <iso value="6400">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">11</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">3</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+                <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
+                <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
+                <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
+                <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
+                <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
+                <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">50</sharpness>
+                <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
+                <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
+            </iso>
+            <iso value="8000">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">16</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">3</c_nr_level>
                 <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">2</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
@@ -153,14 +198,14 @@
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">120</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">50</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-            <iso value="4500">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
+            <iso value="9600">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">19</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">3</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">2</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
@@ -168,14 +213,14 @@
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">120</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">50</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-            <iso value="6400">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
+            <iso value="15000">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">24</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">4</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">2</c_nr_times>
                 <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
@@ -183,55 +228,54 @@
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">120</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">50</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-                <iso value="9600">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
-                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+            <iso value="20000">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">29</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">10</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">6</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">6</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">120</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">50</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-                <iso value="16000">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
-                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+            <iso value="25000">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">32</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">10</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">6</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">6</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">100</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">40</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-                <iso value="20000">
-                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">0.0</y_nr_level>
-                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">1</c_nr_level>
-                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">1</c_nr_times>
-                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">1</block_cnr>
+            <iso value="50000">
+                <y_nr_level       type="float"  rang="[0.0,100.0]" default="10.0"  length="1">35</y_nr_level>
+                <c_nr_level       type="float"  rang="[0.0,10.0]"  default="1.0"   length="1">10</c_nr_level>
+                <c_nr_times       type="int"    rang="[1,6]"       default="1"     length="1">6</c_nr_times>
+                <block_cnr        type="int"    rang="[1,6]"       default="1"     length="1">6</block_cnr>
                 <mfnr_obc         type="double" rang="[0.0,10.0]"  default="1.2"   length="1">1.2</mfnr_obc>
                 <obc_4face        type="double" rang="[0.0,10.0]"  default="2.2"   length="1">2.2</obc_4face>
                 <gain             type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gain>
                 <gamma            type="double" rang="[0.0,10.0]"  default="1.0"   length="1">1</gamma>
                 <contrast         type="int"    rang="[0, 1023]"   default="0"     length="1">0</contrast>
                 <saturation       type="int"    rang="[0, 4095]"   default="1024"  length="1">1024</saturation>
-                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">100</sharpness>
+                <sharpness        type="int"    rang="[0, 4095]"   default="900"   length="1">30</sharpness>
                 <sharpness_thres  type="double" rang="[0.0,1.0]"   default="0.85"  length="1">0.85</sharpness_thres>
                 <auto_sorting     type="int"    rang="[0, 1]"      default="1"     length="1">1</auto_sorting>
             </iso>
-
     </params>
 </lowlight>
