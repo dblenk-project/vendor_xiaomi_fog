@@ -188,7 +188,7 @@
       ".config":{
         "owner": "sns_bmi3x0",
         "thresh":{ "type": "flt", "ver": "0",
-            "data": "0.1"
+            "data": "0.8"
         },
         "disable":{ "type": "int", "ver": "0",
           "data": "0"
@@ -250,6 +250,48 @@
       },
       "11":{ "type": "flt", "ver": "0",
         "data": "0.0"
+      }
+    }
+  },
+  "bmi3x0_crt_state":{
+    "owner": "bmi3x0",
+    ".crt_gain":{
+      "owner": "bmi3x0",
+      "gain_x":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "gain_y":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "gain_z":{ "type": "int", "ver": "0",
+        "data": "0"
+      }
+    },
+    ".crt_offset":{
+      "owner": "bmi3x0",
+      "offset_x":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "offset_y":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "offset_z":{ "type": "int", "ver": "0",
+        "data": "0"
+      }
+    }
+  },
+  "bmi3x0_crt_config":{
+    "owner": "bmi3x0",
+    ".crt_cfg":{
+      "owner": "bmi3x0",
+      "crt_itvl":{ "type": "int", "ver": "0",
+        "data": "600"
+      },
+      "repeate_on_error":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "reserved":{ "type": "int", "ver": "0",
+        "data": "2"
       }
     }
   }
