@@ -305,6 +305,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fog/proprietary/vendor/etc/dsi_panel_c3q_35_02_0a_fhdp_video_display_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_c3q_35_02_0a_fhdp_video_display_mi.xml \
     vendor/xiaomi/fog/proprietary/vendor/etc/dsi_panel_c3q_43_03_0b_fhdp_video_display_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_c3q_43_03_0b_fhdp_video_display_mi.xml \
     vendor/xiaomi/fog/proprietary/vendor/etc/flp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/flp.conf \
+    vendor/xiaomi/fog/proprietary/vendor/etc/ftm_loopback:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_loopback \
+    vendor/xiaomi/fog/proprietary/vendor/etc/ftm_test_config:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config \
+    vendor/xiaomi/fog/proprietary/vendor/etc/ftm_test_config_bengal-qrd-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_bengal-qrd-snd-card \
+    vendor/xiaomi/fog/proprietary/vendor/etc/ftm_test_config_bengal-scubaidp-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_bengal-scubaidp-snd-card \
+    vendor/xiaomi/fog/proprietary/vendor/etc/ftm_test_config_bengal-scubaqrd-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_bengal-scubaqrd-snd-card \
     vendor/xiaomi/fog/proprietary/vendor/etc/gpfspath_oem_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/gpfspath_oem_config.xml \
     vendor/xiaomi/fog/proprietary/vendor/etc/gps.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gps.conf \
     vendor/xiaomi/fog/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
