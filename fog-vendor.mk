@@ -589,6 +589,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fog/proprietary/vendor/firmware/a702_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.mdt \
     vendor/xiaomi/fog/proprietary/vendor/firmware/aw87xxx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87xxx_acf.bin \
     vendor/xiaomi/fog/proprietary/vendor/firmware/focaltech_ts_fw_xinli.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_xinli.bin \
+    vendor/xiaomi/fog/proprietary/vendor/firmware/fs1599.fsm:$(TARGET_COPY_OUT_VENDOR)/firmware/fs1599.fsm \
     vendor/xiaomi/fog/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/xiaomi/fog/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
     vendor/xiaomi/fog/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
@@ -597,6 +598,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fog/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
     vendor/xiaomi/fog/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
     vendor/xiaomi/fog/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
+    vendor/xiaomi/fog/proprietary/vendor/firmware/novatek_ts_hlt_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_hlt_fw.bin \
+    vendor/xiaomi/fog/proprietary/vendor/firmware/novatek_ts_hlt_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_hlt_mp.bin \
     vendor/xiaomi/fog/proprietary/vendor/firmware/novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_mp.bin \
     vendor/xiaomi/fog/proprietary/vendor/firmware/scuba_ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/scuba_ipa_fws.b00 \
     vendor/xiaomi/fog/proprietary/vendor/firmware/scuba_ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/scuba_ipa_fws.b01 \
