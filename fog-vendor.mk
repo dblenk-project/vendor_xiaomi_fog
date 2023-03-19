@@ -1385,10 +1385,8 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     DeviceInfo \
     ImsRcsService \
-    PerformanceMode \
     QtiTelephonyService \
     uceShimService \
-    workloadclassifier \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
