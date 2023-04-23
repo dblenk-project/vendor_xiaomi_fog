@@ -976,7 +976,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.qcom.so \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/com.dsi.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.dsi.ant@1.0-impl.so \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.override.so \
-    vendor/xiaomi/fog/proprietary/vendor/lib64/hw/consumerir.bengal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.bengal.so \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/fingerprint.fpc.bengal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.fpc.bengal.so \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/fingerprint.silead.bengal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.silead.bengal.so \
     vendor/xiaomi/fog/proprietary/vendor/lib64/hw/vendor.qti.gnss@4.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.gnss@4.0-impl.so \
